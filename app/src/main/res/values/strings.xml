@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- https://github.com/throwrocks/android-quiz-app used as inspiration and for ideas as to what to do -->
+
+<resources>
+    <string name="app_name">Presidents Quiz App</string>
+
+    <string name="question1">1. Who was the first president of the USA?</string>
+    <string name="question1_choice1">Barack Obama</string>
+    <string name="question1_choice2">Abe Lincoln</string>
+    <string name="question1_choice3">George Washington</string>
+    <string name="question1_choice4">John Adams</string>
+
+    <string name="question2">2. What number is the current President Donald Trump (numeral number)?</string>
+
+    <string name="question3">3. What are the only two Father Son pairs of Presidents?</string>
+    <string name="question3_choice1">Bush</string>
+    <string name="question3_choice2">Taft</string>
+    <string name="question3_choice3">Adams</string>
+    <string name="question3_choice4">Roosevelt</string>
+
+    <string name="question4">4. Who is the oldest living President (name or number)?</string>
+
+    <string name="question5">5 What Office did Grover Cleveland (22) hold after leaving the office of the President?</string>
+    <string name="question5_choice1">US Representative</string>
+    <string name="question5_choice2">President of the USA</string>
+    <string name="question5_choice3">Chief Justice of the United States</string>
+
+    <string name="question6">6. What party was President McKinley affiliated with?</string>
+
+    <string name="question7">7. Which two Presidents are Uncle and Nephew?</string>
+    <string name="question7_choice1">John Adams</string>
+    <string name="question7_choice2">John Quincy Adams</string>
+    <string name="question7_choice3">Teddy Roosevelt</string>
+    <string name="question7_choice4">Franklin Roosevelt</string>
+
+    <string name="question8">8. Which President said "The Buck Stops Here"?</string>
+
+    <string name="question9">9. Which party does our current President represent?</string>
+    <string name="question9_choice1">Democrat</string>
+    <string name="question9_choice2">Republican</string>
+
+    <string name="question10">10. Who was the most recent President to be assassinated?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
